@@ -6,7 +6,7 @@ pdfminer.six==20181108
 pep8==1.7.1
 pycodestyle==2.5.0
 pycryptodome==3.8.1
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pywin32==227
 requests==2.23.0
 selenium==3.141.0
